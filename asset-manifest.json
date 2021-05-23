@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Feline-yellowbook/static/css/main.052c20bf.chunk.css",
+    "main.js": "/Feline-yellowbook/static/js/main.a5b2502c.chunk.js",
+    "main.js.map": "/Feline-yellowbook/static/js/main.a5b2502c.chunk.js.map",
+    "runtime-main.js": "/Feline-yellowbook/static/js/runtime-main.a3fc4a43.js",
+    "runtime-main.js.map": "/Feline-yellowbook/static/js/runtime-main.a3fc4a43.js.map",
+    "static/js/2.ed5a78f7.chunk.js": "/Feline-yellowbook/static/js/2.ed5a78f7.chunk.js",
+    "static/js/2.ed5a78f7.chunk.js.map": "/Feline-yellowbook/static/js/2.ed5a78f7.chunk.js.map",
+    "static/js/3.35eb68c5.chunk.js": "/Feline-yellowbook/static/js/3.35eb68c5.chunk.js",
+    "static/js/3.35eb68c5.chunk.js.map": "/Feline-yellowbook/static/js/3.35eb68c5.chunk.js.map",
+    "index.html": "/Feline-yellowbook/index.html",
+    "static/css/main.052c20bf.chunk.css.map": "/Feline-yellowbook/static/css/main.052c20bf.chunk.css.map",
+    "static/js/2.ed5a78f7.chunk.js.LICENSE.txt": "/Feline-yellowbook/static/js/2.ed5a78f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3fc4a43.js",
+    "static/js/2.ed5a78f7.chunk.js",
+    "static/css/main.052c20bf.chunk.css",
+    "static/js/main.a5b2502c.chunk.js"
+  ]
+}
